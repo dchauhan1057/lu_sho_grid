@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lo_shu_grid",
+    "slug": "lo_shu_grid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lo_shu_grid"
+}
